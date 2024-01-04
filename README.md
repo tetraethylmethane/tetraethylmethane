@@ -1,8 +1,3 @@
-# Welcome to Profile! š
-
-![Header Image](*header_image*)
-
-
 ## Want to know about me?
 
 - LinkedIn: https://in.linkedin.com/in/i-swastik

@@ -1,7 +1,7 @@
 ## Want to know about me?
 
 - LinkedIn: https://in.linkedin.com/in/i-swastik
-- Website: https://sites.google.com/view/i-swastik?usp=sharing
+- Website: https://sites.google.com/view/i-swastik
 
 
 ## Open Source Projects

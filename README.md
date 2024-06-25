@@ -1,15 +1,6 @@
-## Want to know about me?
+# I am Swastik
 
-- LinkedIn: https://in.linkedin.com/in/i-swastik
-- Website: https://sites.google.com/view/i-swastik
+BS student in Data Science and B.Tech student in Electrical and Computer Engineering.
 
+* Interested in new technologies
 
-## Open Source Projects
-Below are some of my notable open-source projects which I invite you to explore. Feel free to contribute if interested!
-
-### None for now.
-
-[<img src="/path_to_image" alt="" width="100"/>](link_to_repository)
-
-
----

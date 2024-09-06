@@ -1,5 +1,6 @@
 # K Swastik
 
-BS student in Data Science at IIT Madras and B.Tech student in Electronics and Communication Engineering at TIET.
+- Bachelor of Science student in Data Science at IIT Madras
+- Bachelor of Engineering student in Electronics and Communication Engineering at TIET.
 
-* Interested in Multidisciplinary Engineering Sciences, Research and Development
+* Interested in Research and Development in the field of interdisciplinary engineering sciences.
